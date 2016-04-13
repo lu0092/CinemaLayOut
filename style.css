@@ -1,0 +1,23 @@
+*{
+    outline: 1px solid rgba(255,0,0,0.3);
+}
+
+img {
+	max-width: 100%;
+	}
+hr {
+	color: #FFF;
+	width: 80%;
+	}
+.hero-selection {background-image: url(../img/banner.jpg);max-width: 100%;}
+.big-hero {color: #FFF;margin-bottom: 5px;}
+.hero {border: 2px solid #04B45F;border-radius: 20%;color: #04B45F;padding: 10px;width: 18%;font-size: 13px;margin-top: 10px;}
+
+.cartelera li {
+	list-style: none;
+	display: inline-block;
+	width: 100%;
+	}
+.cartelera {
+	background-color: #F7D358;
+}
