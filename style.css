@@ -1,18 +1,27 @@
-*{
-    outline: 1px solid rgba(255,0,0,0.3);
+/**{
+    outline: 1px solid rgba(255,0,0,0.3);*/
 }
 
 img {
 	max-width: 100%;
 	}
 hr {
-	color: #FFF;
+	color: #D8D8D8;
 	width: 80%;
 	}
-.hero-selection {background-image: url(../img/banner.jpg);max-width: 100%;}
-.big-hero {color: #FFF;margin-bottom: 5px;}
-.hero {border: 2px solid #04B45F;border-radius: 20%;color: #04B45F;padding: 10px;width: 18%;font-size: 13px;margin-top: 10px;}
-
+p {
+	display: inline-block;
+	
+}
+ul > li {
+	list-style: none;
+	color: #D8D8D8;
+	margin-right: 0;
+}
+.hero-selection {background-image: url(L:/lu/Unidad%201/CinemaLayOut/img/banner.jpg);max-width: 100%;}
+.big-hero {color: #D8D8D8;margin-bottom: 5px; font-size: 30px;}
+.hero {border: 2px solid #04B45F;border-radius: 10%;color: #04B45F;padding: 10px;width: 20%;font-size: 13px;margin-top: 10px; margin-bottom: 10px;}
+.normal { width: 60%;text-align: left; color: #D8D8D8; margin-left: 5px; margin-right: 0px; }
 .cartelera li {
 	list-style: none;
 	display: inline-block;
